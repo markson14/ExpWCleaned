@@ -4,7 +4,7 @@ Since the original ExpW dataset is really dirty, here I offer a cleaner version 
 
 ### Download
 
-[Dropbox]()
+[Google Drive](https://drive.google.com/file/d/1vHGIbanzDLbweY_UYyy_EfdWh1-lpVEa/view?usp=sharing)
 
-[BaiduYun]()
+[BaiduYun](https://pan.baidu.com/s/1O9z8x92nYqqsKOVFNuiNZg) [password: t9sd]
 
